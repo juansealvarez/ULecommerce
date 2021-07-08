@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Train One', Arial, sans-serif;
+    font-size: 3em;
+}
+
+.titulos {
+    background-color: rgb(34, 155, 98);
+}
+.titulos:hover {
+    background-color: blue;
+}
+
+#Carrito:hover {
+    background-color: rgb(34, 155, 98);
+    font-weight: bold;
+}
+
+#Catalogo:hover {
+    background-color: rgb(34, 155, 98);
+    font-weight: bold;
+}
+
+#About:hover {
+    background-color: rgb(34, 155, 98);
+    font-weight: bold;
+}
